@@ -2,3 +2,4 @@
 pwd
 whoam
 echo $USER
+echo $HOSTNAME
